@@ -1,4 +1,4 @@
 # Table of contents
 
-* [HyperJump-Docs](README.md)
+* [HyperGuides](README.md)
 * [test](test.md)
