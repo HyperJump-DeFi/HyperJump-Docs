@@ -1,10 +1,5 @@
----
-description: About HyperJump
----
-
-# HyperGuides
-
 ![HyperVerse - Everything you need in one place!](<.gitbook/assets/image (3).png>)
+# HyperGuides
 
 Hey HyperCrew, Are you ready to move beyond the corridor of space-time, on an adventure to unveil the treasures and secrets of the universe?&#x20;
 
