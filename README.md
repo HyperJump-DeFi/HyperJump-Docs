@@ -4,7 +4,7 @@ description: About HyperJump
 
 # HyperGuides
 
-![HyperVerse - Everything you need in one place!](.gitbook/assets/image.png)
+![HyperVerse - Everything you need in one place!](<.gitbook/assets/image (3).png>)
 
 Hey HyperCrew, Are you ready to move beyond the corridor of space-time, on an adventure to unveil the treasures and secrets of the universe?&#x20;
 
@@ -67,4 +67,4 @@ At hyperjump, user safety is our priority, That is why we offer users a tool cal
 * HyperSwap v2 brings a unique feature called ‘Trade Mining’ or some must say ‘Trade to Earn’ where swapper are rewarded in $JUMP token for trading whitelisted trading pair.
 * PROJECT X, Y and Z👀​🕵♂​
 
-![](https://hyperjumpdocs.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRxBkOimhHcavgWODfxRS%2Fuploads%2FXgRD3jdbygnyHPqzuFnk%2Fwelcome\(%202sgl\).gif?alt=media\&token=2a53a8b1-e477-440b-a16d-aa3e1f85f586)
+![HyperVerse](https://hyperjumpdocs.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRxBkOimhHcavgWODfxRS%2Fuploads%2FXgRD3jdbygnyHPqzuFnk%2Fwelcome\(%202sgl\).gif?alt=media\&token=2a53a8b1-e477-440b-a16d-aa3e1f85f586)
