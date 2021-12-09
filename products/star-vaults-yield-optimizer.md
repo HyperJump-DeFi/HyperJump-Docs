@@ -34,5 +34,6 @@ Hyper Jump LP Farms: 1%
 * 0.5% call fee
 
 **Withdrawal Fee**.&#x20;
+\
 **A  0.05% - 0.1% fee applies to withdrawals on all vaults.**.&#x20;
 
