@@ -9,7 +9,7 @@
 **HYPERJUMP**\
 [0x130025eE738A66E691E6A7a62381CB33c6d9Ae83](https://bscscan.com/address/0x130025eE738A66E691E6A7a62381CB33c6d9Ae83)\
 **xJUMP (wrapper for staking pool)**\
-[0x522650de53e79ead931e4eb3537b12d7fe06697d](https://bscscan.com/address/0x522650de53e79ead931e4eb3537b12d7fe06697d)
+[0x522650de53e79ead931e4eb3537b12d7fe06697d](https://bscscan.com/address/0x522650de53e79ead931e4eb3537b12d7fe06697d)&#x20;
 
 ### Farm (HyperStation) and its utility contracts
 
@@ -48,7 +48,7 @@
 **Hyper Alloy (farm token)**\
 [~~0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd~~\
 ](https://bscscan.com/address/0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd#code)**V1 HyperCity (farm)**\
-[~~0x4F1818Ff649498a2441aE1AD29ccF55a8E1C6250~~](https://bscscan.com/address/0x4F1818Ff649498a2441aE1AD29ccF55a8E1C6250)\\
+[~~0x4F1818Ff649498a2441aE1AD29ccF55a8E1C6250~~](https://bscscan.com/address/0x4F1818Ff649498a2441aE1AD29ccF55a8E1C6250)\\&#x20;
 
 
 
@@ -109,10 +109,9 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 **V1 BURNMMACHINE V3**\
 [~~0xf640259e4032ef4f7e0a1b7a14b2473373c0245c~~](https://ftmscan.com/address/0xf640259e4032ef4f7e0a1b7a14b2473373c0245c)\
 **V1 Farm HyperPlanet (Old farm)**\
-[~~0x0575f8738efda7f512e3654f277c77e80c7d2725~~](https://ftmscan.com/address/0x0575f8738efda7f512e3654f277c77e80c7d2725)~~~~
+[~~0x0575f8738efda7f512e3654f277c77e80c7d2725~~](https://ftmscan.com/address/0x0575f8738efda7f512e3654f277c77e80c7d2725)~~~~&#x20;
 
 ## Git~~H~~ub
 
 \
 [https://github.com/HyperJump-DeFi/HyperJump-Contracts](https://github.com/HyperJump-DeFi/HyperJump-Contracts)
-&#x20;
