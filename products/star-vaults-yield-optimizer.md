@@ -18,11 +18,11 @@ StarVaults will be harvested at regular time intervals (every 4 hours on BSC, ev
 
 ### Fees
 
-**Deposit fees:**
+**Deposit fees:**.&#x20;
 Farm deposit fees apply to all vaults, so please check the associated project for this info.\
 Hyper Jump LP Farms: 1%\
 \
-**HyperJump LP Vault Yield Performance Fees (taken off profit) - 4%**
+**HyperJump LP Vault Yield Performance Fees (taken off profit) - 4%**.&#x20;
 
 * 3.5% buys back $HYPR (BSC) / $AURORA (FTM)
 * 0.5% call fee
