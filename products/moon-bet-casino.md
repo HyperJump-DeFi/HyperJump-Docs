@@ -54,9 +54,8 @@ If you have any concerns about your gambling habits and feel that you can’t fo
 
 If you wish to gamble with us at casino, you must be over 18 years of age or the legal minimum age for gambling in the jurisdiction you reside in under the laws applicable to you. We recommended if you have any minors living in your household, to review the following parental control software links, which could prove a useful tool, regarding control and restrictions of the content accessible on your devices.&#x20;
 
-https://www.netnanny.com
-
-https://www.cyberpatrol.com
+[https://www.netnanny.com](https://www.netnanny.com)
+[https://www.cyberpatrol.com](https://www.cyberpatrol.com)
 
 ### Contracts&#x20;
 
