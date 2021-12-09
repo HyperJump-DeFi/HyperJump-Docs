@@ -1,4 +1,4 @@
-# Table of contents
+# HyperDocs
 
 * [HyperGuides](README.md)
 
