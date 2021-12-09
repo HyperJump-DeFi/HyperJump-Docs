@@ -1,5 +1,5 @@
 ---
-description: Get $JUMP tokens as a reward for farming your LP's
+Get $JUMP tokens as a reward for farming your LP's
 ---
 
 # The Asteroid Field

@@ -1,5 +1,5 @@
 ---
-description: Stake your $JUMP without risk of permanent loss!
+Stake your $JUMP without risk of permanent loss!
 ---
 
 # Mech Staking
