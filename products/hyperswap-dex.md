@@ -1,5 +1,5 @@
 ---
-description: The best AMM DEX in the galaxy
+The best AMM DEX in the galaxy
 ---
 
 # HyperSwap (DEX)
@@ -10,19 +10,11 @@ On BSC, it stands out from the competition as it collects a total of 0.4% for sw
 
 Similarly on Fantom, it collects a total of 0.2% for swap fees, of which the **full 0.15% is paid to existing LPs and the other 0.05% is used to buy-back and burn $JUMP**.
 
-{% hint style="info" %}
-Refer to the document on JUMP **** TOKENS for more details on the AMM Buy-Backs & Burns.
-{% endhint %}
-
-{% hint style="info" %}
-Refer to the document on JUMP **** TOKENS for more details on the AMM Buy-Backs & Burns
-{% endhint %}
-
 ### **LIQUIDITY PROVIDERS (LPs)**
 
 Liquidity can be provided on HyperSwap by pooling two different tokens of which the amount will be automatically calculated based on the underlying price of each.&#x20;
 
-After providing liquidity, LP tokens are received which can be staked in the corresponding staking pools in The Asteroid Field to earn $JUMP **** (BSC) or $JUMP **** (FTM).
+After providing liquidity, LP tokens are received which can be staked in the corresponding staking pools in The Asteroid Field to earn $JUMP ** (BSC) or $JUMP ** (FTM).
 
 To create LP tokens (usually for a specific farm) follow this process:
 

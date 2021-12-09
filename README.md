@@ -60,6 +60,6 @@ At hyperjump, user safety is our priority, That is why we offer users a tool cal
 #### Coming Soon..
 
 * HyperSwap v2 brings a unique feature called ‘Trade Mining’ or some must say ‘Trade to Earn’ where swapper are rewarded in $JUMP token for trading whitelisted trading pair.
-* PROJECT X, Y and Z👀​🕵♂​
+* PROJECT X, Y and Z👀​🕵
 
 ![HyperVerse](https://hyperjumpdocs.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRxBkOimhHcavgWODfxRS%2Fuploads%2FXgRD3jdbygnyHPqzuFnk%2Fwelcome\(%202sgl\).gif?alt=media\&token=2a53a8b1-e477-440b-a16d-aa3e1f85f586)
