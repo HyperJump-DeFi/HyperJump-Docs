@@ -1,5 +1,5 @@
 ---
-description: HyperAudied
+HyperAudied
 ---
 
 # Audit

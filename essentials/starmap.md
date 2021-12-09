@@ -1,5 +1,5 @@
 ---
-description: HyperJump Road Map!
+HyperJump Road Map!
 ---
 
 # StarMap
