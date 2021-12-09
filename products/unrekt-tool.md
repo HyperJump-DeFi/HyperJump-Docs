@@ -1,5 +1,5 @@
 ---
-description: Stay SAFU with Unrekt tool
+Stay SAFU with Unrekt tool
 ---
 
 # Unrekt Tool

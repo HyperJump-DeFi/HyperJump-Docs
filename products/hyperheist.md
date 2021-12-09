@@ -1,5 +1,5 @@
 ---
-description: HyperHeist The HyperJump Play To Earn Blockchain Game
+HyperHeist The HyperJump Play To Earn Blockchain Game
 ---
 
 # HyperHeist

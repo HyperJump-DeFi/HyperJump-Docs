@@ -1,7 +1,5 @@
 ---
-description: >-
-  Get passive rewards, increase your voting power and watch the total supply
-  burn!
+Get passive rewards, increase your voting power and watch the total supply burn!
 ---
 
 # $HYPR - HyperBurn (BSC)
@@ -33,10 +31,6 @@ Every transaction of $HYPR, with the exception of buying, is subject to the burn
 No action is needed for holders to receive the fees. The amount of $HYPR increases right in their wallet.
 
 ![Burn Cycle](<../.gitbook/assets/image (8).png>)
-
-{% hint style="info" %}
-The HyperBurn smart contract blocks certain addresses like pool or exchange from earning the yield generated from burn fees.
-{% endhint %}
 
 #### &#x20;Burned from Supply
 

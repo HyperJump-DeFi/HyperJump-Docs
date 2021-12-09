@@ -1,7 +1,5 @@
 ---
-description: >-
-  Get passive rewards, increase your voting power and watch the total supply
-  burn!
+Get passive rewards, increase your voting power and watch the total supply burn!
 ---
 
 # $AURORA - HyperAurora (FTM)
@@ -37,10 +35,6 @@ No action is needed for holders to receive the fees. The amount of $AURORA incre
 
 
 ![Burn Cycle](<../.gitbook/assets/image (17).png>)
-
-{% hint style="info" %}
-The HyperAurora smart contract blocks certain addresses like pool or exchange from earning the yield generated from burn fees.
-{% endhint %}
 
 #### &#x20;Burned from Supply
 

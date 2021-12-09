@@ -1,5 +1,5 @@
 ---
-description: The HyperJump’s reDEFIned multi-chain farming token
+The HyperJump’s reDEFIned multi-chain farming token
 ---
 
 # $JUMP - HyperJump
