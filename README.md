@@ -52,13 +52,13 @@ With StarVaults v2, we bring innovation in DEFI industry. StarVaults v2 uses spe
 
 Users can deposit $JUMP tokens to play casino games and earn more than 100x in rewards if they win.
 
-**Galactic Lottery**
+**GALACTIC LOTTERY**
 
 [https://ftm.hyperjump.app/lottery](https://ftm.hyperjump.app/lottery)
 
 In the galactic lottery you can play your favorite numbers and try your luck while using your $JUMP tokens, to win a prize you only need to match one number!
 
-**HyperHeist**
+**HYPERHEIST**
 [https://hyperjump.fi/hyperheist/](https://hyperjump.fi/hyperheist/)
 
 Show that you are the best player and have fun playing with Red Falcon in HyperHeist, the game with a healthy economy that strengthens the project, maintain stability, gives use cases to the platform and also allows users to have fun to obtain the highest score!
