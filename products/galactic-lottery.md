@@ -1,5 +1,5 @@
 ---
-description: Use $JUMP to play in the Galactic Lottery
+Use $JUMP to play in the Galactic Lottery
 ---
 
 # Galactic Lottery
