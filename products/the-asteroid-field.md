@@ -1,5 +1,54 @@
 ---
-Get $JUMP tokens as a reward for farming your LP's
+'0': G
+'1': e
+'2': t
+'3': ' '
+'4': $
+'5': J
+'6': U
+'7': M
+'8': P
+'9': ' '
+'10': t
+'11': o
+'12': k
+'13': e
+'14': 'n'
+'15': s
+'16': ' '
+'17': a
+'18': s
+'19': ' '
+'20': a
+'21': ' '
+'22': r
+'23': e
+'24': w
+'25': a
+'26': r
+'27': d
+'28': ' '
+'29': f
+'30': o
+'31': r
+'32': ' '
+'33': f
+'34': a
+'35': r
+'36': m
+'37': i
+'38': 'n'
+'39': g
+'40': ' '
+'41': 'y'
+'42': o
+'43': u
+'44': r
+'45': ' '
+'46': L
+'47': P
+'48': ''''
+'49': s
 ---
 
 # The Asteroid Field
@@ -28,13 +77,13 @@ The Asteroid Field we have a hidden feature within the code in the future with a
 
 ### How to Farm
 
-1- Go to [HyperSwap](https://swap.hyperjump.fi), click liquidity, click [Add Liquidity](https://ftm.hyperjump.app/add) and pair the desired tokens to add to the liquidity pool or use ZAP to provide liquidity in one-click.&#x20;
+1- Go to [HyperSwap](https://swap.hyperjump.fi), click liquidity, click [Add Liquidity](https://ftm.hyperjump.app/add) and pair the desired tokens to add to the liquidity pool or use ZAP to provide liquidity in one-click.
 
 ![](<../.gitbook/assets/image (10).png>)
 
 ![](<../.gitbook/assets/image (11).png>)
 
-2-Go to [The Asteroid Field](https://ftm.hyperjump.app/farms), find the corresponding farm, click the plus sign.&#x20;
+2-Go to [The Asteroid Field](https://ftm.hyperjump.app/farms), find the corresponding farm, click the plus sign.
 
 That's it. Now you are farming $JUMP tokens!
 
@@ -54,7 +103,7 @@ That's it. Now you are farming $JUMP tokens!
 
 1- Go to [HyperSwap](https://swap.hyperjump.fi), click liquidity and then click [Import It](https://ftm.hyperjump.app/find)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 2- Select the pair that you want to import
 
