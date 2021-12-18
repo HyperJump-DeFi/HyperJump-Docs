@@ -9,6 +9,7 @@
 * [Mech Staking](products/mech-staking.md)
 * [Star Vaults (Yield Optimizer)](products/star-vaults-yield-optimizer.md)
 * [Moon Bet Casino](products/moon-bet-casino.md)
+* [HyperVortex](products/hypervortex.md)
 * [Galactic Lottery](products/galactic-lottery.md)
 * [HyperHeist](products/hyperheist.md)
 * [Unrekt Tool](products/unrekt-tool.md)
