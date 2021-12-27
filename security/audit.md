@@ -10,7 +10,7 @@ After inspection through tests, automated analysis, and manual analysis, the aud
 
 HyperJump is audited by Certik and reviewed by The RugDoc.&#x20;
 
-#### The RugDoc Audit
+#### The RugDoc Review
 
 [https://rugdoc.io/project/hyperjump-fi/](https://rugdoc.io/project/hyperjump-fi/)
 

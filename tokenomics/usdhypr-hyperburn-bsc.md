@@ -4,8 +4,6 @@ Get passive rewards, increase your voting power and watch the total supply burn!
 
 # $HYPR - HyperBurn (BSC)
 
-\
-
 
 ![](https://hyperjumpold.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MTScQrWET7o6AEJKVg7%2Fuploads%2Fi1QG7wCpvggadG8JDQpq%2Fimage.png?alt=media\&token=2b287d8f-6f95-411d-992d-ef3b2b4ba8e8)
 
