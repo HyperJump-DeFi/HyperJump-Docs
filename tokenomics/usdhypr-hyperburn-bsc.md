@@ -9,6 +9,12 @@ Get passive rewards, increase your voting power and watch the total supply burn!
 
 HyperBurn ($HYPR) is the flagship token of HyperJump on Binance Smarth Chain that delivers instant passive yield directly to user wallets. It is a deflationary token with a burn on every transaction with the exception of buying.
 
+### Initial Supply
+
+The initial supply for $HYPR was 1 million tokens.
+
+The supply will only get smaller in every transaction (except the buying)
+
 ### The Burn
 
 Every transaction of $HYPR, with the exception of buying, is subject to the burning mechanism. The burn percentage is based on a curve against the price of BNB.&#x20;
