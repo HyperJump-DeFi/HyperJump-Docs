@@ -1,5 +1,57 @@
 ---
-HyperHeist The HyperJump Play To Earn Blockchain Game
+'0': H
+'1': 'y'
+'2': p
+'3': e
+'4': r
+'5': H
+'6': e
+'7': i
+'8': s
+'9': t
+'10': ' '
+'11': T
+'12': h
+'13': e
+'14': ' '
+'15': H
+'16': 'y'
+'17': p
+'18': e
+'19': r
+'20': J
+'21': u
+'22': m
+'23': p
+'24': ' '
+'25': P
+'26': l
+'27': a
+'28': 'y'
+'29': ' '
+'30': T
+'31': o
+'32': ' '
+'33': E
+'34': a
+'35': r
+'36': 'n'
+'37': ' '
+'38': B
+'39': l
+'40': o
+'41': c
+'42': k
+'43': c
+'44': h
+'45': a
+'46': i
+'47': 'n'
+'48': ' '
+'49': G
+'50': a
+'51': m
+'52': e
 ---
 
 # HyperHeist
@@ -8,18 +60,18 @@ HyperHeist The HyperJump Play To Earn Blockchain Game
 
 Players must pay 0.25$ to play a game, payments must be made in BUSD if you are using BinanceSmathChain or USDC if you are using Fantom network; at the end of the week the funds obtained will be used to buy back and burn farming tokens and reward the top 5 players with the highest scores, the distribution will be this:
 
-* 30% Buyback and Burn $JUMP🔥&#x20;
-* TOP 1 - 25% 🥇&#x20;
-* TOP 2 - 17% 🥈&#x20;
-* TOP 3 - 13% 🥉&#x20;
-* TOP 4 - 10% 💰&#x20;
+* 30% Buyback and Burn $JUMP🔥
+* TOP 1 - 25% 🥇
+* TOP 2 - 17% 🥈
+* TOP 3 - 13% 🥉
+* TOP 4 - 10% 💰
 * TOP 5 - 5% 💰
 
 This System gives a buying force to $JUMP, it reduces the total supply, increases the JUMP buy force, the game price keeps stable and the winners can’t have a selling pressure to the tokens to take their profits, Everyone wins!
 
 ### **How to play HyperHeist?**
 
-The objective is to collect the materials from the dispensers, for this we must approach the dispensers with materials and wait 2.1 seconds while we fully load the materials**.**
+The objective is to collect the materials from the dispensers, for this we must approach the dispensers with materials and wait 2.1 seconds while we fully load the materials\*\*.\*\*
 
 Once the materials are collected we need to return to the base and we will have completed the wave! We can always use the map to orient ourselves, the objectives will appear highlighted there.
 
@@ -49,16 +101,16 @@ The boss will appear in waves 4 and 8 (make sure you get a good weapon on the ve
 
 ### **Minion ships!**
 
-They will follow you and try to destroy your ship, red falcon is resistant up to 37 minion shots!&#x20;
+They will follow you and try to destroy your ship, red falcon is resistant up to 37 minion shots!
 
-* The shots could make you back off&#x20;
-* There will be more enemies in each wave&#x20;
-* Try to avoid the minions shots&#x20;
+* The shots could make you back off
+* There will be more enemies in each wave
+* Try to avoid the minions shots
 * Use tunnels smartly to destroy them
 
 ### Vending Machine Pro! 🎰
 
-You can decide between taking the upgrade that you got or leaving it there to take advantage of it later when it seems more convenient (the object could disappear).&#x20;
+You can decide between taking the upgrade that you got or leaving it there to take advantage of it later when it seems more convenient (the object could disappear).
 
 If you are at wave 3 and you do not find a better weapon, destroy more minions to get 4000 points and try again on the vending machine.
 
@@ -68,7 +120,7 @@ Those are very easy things that can help us a lot to improve our game!
 
 ### Sweeping
 
-This technique consists on turning around in the circle of the map, shooting non-stop only the enemies in front of the ship&#x20;
+This technique consists on turning around in the circle of the map, shooting non-stop only the enemies in front of the ship
 
 After a while, all enemies will be together behind you, and it will be much easier to collect materials ⚙️
 
@@ -78,8 +130,8 @@ To fully collect materials the ship must spend approximately 2.1 seconds collect
 
 ### Beating the Boss! 🗡️
 
-* The first thing you should do is avoid placing yourself in front of him&#x20;
-* When the boss appears, stand behind him and shoot without stop&#x20;
+* The first thing you should do is avoid placing yourself in front of him
+* When the boss appears, stand behind him and shoot without stop
 * Focus on beating the boss rather than destroying the Minions
 * Try to get a better weapon before you face him
 
@@ -88,3 +140,5 @@ To fully collect materials the ship must spend approximately 2.1 seconds collect
 ![](https://lh5.googleusercontent.com/ylIlT4IH549hDpHEiCgXzZyhQRiVfv4c4AAgZrgl3CTG88xCFq\_Bv-skxRa2RHPJnqMWGLMcvY6XKgk70J1conUWWQ\_zM-tWUPc9Z9CxMxtgLhlbMbr34pYfK0yAZHYxHx-o1ptO)
 
 ### [PLAY NOW!](https://hyperjump.fi/hyperheist/)
+
+![](../.gitbook/assets/video5071073018873119348.gif)
