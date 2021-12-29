@@ -11,6 +11,7 @@
   * [HyperVortex](products/hypervortex.md)
   * [HyperHeist](products/hyperheist.md)
   * [Galactic Lottery](products/galactic-lottery.md)
+  * [Fiat On Ramp](products/fiat-on-ramp.md)
   * [Unrekt Tool](products/unrekt-tool.md)
 * [Tokenomics](tokenomics/README.md)
   * [$JUMP - HyperJump](tokenomics/usdjump-hyperjump.md)
