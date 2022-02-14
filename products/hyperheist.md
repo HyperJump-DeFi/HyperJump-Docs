@@ -13,7 +13,7 @@ Players must pay 0.25$ to play a game, payments must be made in BUSD if you are 
 
 This System gives a buying force to $JUMP, it reduces the total supply, increases the JUMP buy force, the game price keeps stable and the winners can’t have a selling pressure to the tokens to take their profits, Everyone wins!
 
-    *In case the incoming rewards are not enough to cover the network fees or there are few winners, then the payments will be made after the necessary number of players join*
+*In case the incoming rewards are not enough to cover the network fees or there are few winners, then the payments will be made after the necessary number of players join*
 
 ### **How to play HyperHeist?**
 
