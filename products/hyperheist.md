@@ -1,59 +1,3 @@
----
-'0': H
-'1': 'y'
-'2': p
-'3': e
-'4': r
-'5': H
-'6': e
-'7': i
-'8': s
-'9': t
-'10': ' '
-'11': T
-'12': h
-'13': e
-'14': ' '
-'15': H
-'16': 'y'
-'17': p
-'18': e
-'19': r
-'20': J
-'21': u
-'22': m
-'23': p
-'24': ' '
-'25': P
-'26': l
-'27': a
-'28': 'y'
-'29': ' '
-'30': T
-'31': o
-'32': ' '
-'33': E
-'34': a
-'35': r
-'36': 'n'
-'37': ' '
-'38': B
-'39': l
-'40': o
-'41': c
-'42': k
-'43': c
-'44': h
-'45': a
-'46': i
-'47': 'n'
-'48': ' '
-'49': G
-'50': a
-'51': m
-'52': e
----
-
 # HyperHeist
 
 ## Getting Started **HyperHeist**
@@ -68,6 +12,8 @@ Players must pay 0.25$ to play a game, payments must be made in BUSD if you are 
 * TOP 5 - 5% 💰
 
 This System gives a buying force to $JUMP, it reduces the total supply, increases the JUMP buy force, the game price keeps stable and the winners can’t have a selling pressure to the tokens to take their profits, Everyone wins!
+
+    *In case the incoming rewards are not enough to cover the network fees or there are few winners, then the payments will be made after the necessary number of players join*
 
 ### **How to play HyperHeist?**
 
